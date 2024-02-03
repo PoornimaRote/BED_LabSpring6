@@ -1,4 +1,4 @@
-package com.grealearning.students.model;
+package com.greatlearning.students.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
