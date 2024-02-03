@@ -1,4 +1,4 @@
-package com.grealearning.students.security;
+package com.greatlearning.students.security;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -8,8 +8,8 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.grealearning.students.model.Role;
-import com.grealearning.students.model.User;
+import com.greatlearning.students.model.Role;
+import com.greatlearning.students.model.User;
 
 public class MyUserDetails implements UserDetails {
 
