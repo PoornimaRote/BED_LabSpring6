@@ -1,4 +1,4 @@
-package com.grealearning.students;
+package com.greatlearning.students;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
