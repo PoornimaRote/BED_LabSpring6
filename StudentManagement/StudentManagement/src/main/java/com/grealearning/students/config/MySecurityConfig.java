@@ -1,4 +1,4 @@
-package com.grealearning.students.config;
+package com.greatlearning.students.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -11,7 +11,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
-import com.grealearning.students.service.UserDetailsServiceImpl;
+import com.greatlearning.students.service.UserDetailsServiceImpl;
 
 @Configuration
 public class MySecurityConfig extends WebSecurityConfigurerAdapter {
