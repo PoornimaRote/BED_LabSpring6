@@ -1,4 +1,4 @@
-package com.grealearning.students.controller;
+package com.greatlearning.students.controller;
 
 import java.util.List;
 
@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import com.grealearning.students.model.Student;
-import com.grealearning.students.service.StudentService;
+import com.greatlearning.students.model.Student;
+import com.greatlearning.students.service.StudentService;
 
 @Controller
 @RequestMapping("/students")
